@@ -1,14 +1,14 @@
 ### Olá! Sou Yago Rodrigues
 
-  <img align="center" alt="gif" height="340" style="border-radius:50px;" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif?width=400&height=676">
+  <img align="center" alt="gif" height="300" style="border-radius:50px;" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif?width=400&height=676">
 
 ##
-<div align="center">
+
 - 🔭 Front-End
 - 🟡 JavaScript -HTML/CSS
 - 🔵 React
 - 🔴 Estudando Ruby
-</div>
+
 
 <div align="center">
   <a href="https://github.com/yagowb">
