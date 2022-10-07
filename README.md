@@ -4,7 +4,7 @@
 
 ##
 
-- 🔭 Front-End
+- 🔭 Front-End & Back-End
 - 🟡 JavaScript
 - 🔴 Java
 - 🟠 HTML
