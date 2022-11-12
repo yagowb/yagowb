@@ -1,4 +1,4 @@
-### Olá! Sou Yago Rodrigues
+### hey, welcome to my profile :)
 
   <img align="center" alt="gif" height="250" style="border-radius:50px;" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif?width=400&height=676">
 
