@@ -7,9 +7,8 @@
 - 🔭 Front-End & Back-End
 - 🟡 JavaScript
 - 🔴 Java
-- 🟠 HTML
-- 🔵 CSS
-- 🟣 Estudando <i>PHP</i>
+- 🟠 HTML/CSS
+- 🟣 <i>PHP</i>
 
 
 
