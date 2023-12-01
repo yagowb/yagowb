@@ -4,11 +4,9 @@
 
 ##
 
-- 🔭 Front-End & Back-End
 - 🟣 PHP
-- 🟡 JavaScript
+- 🟡 JavaScript 
 - 🔴 Java
-- 🟠 HTML/CSS
 
 
 
