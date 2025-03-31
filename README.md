@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Yago - welcome to my profile!</h1>
-<h3 align="center">A eager-to-learn software developer from northeast Brazil</h3>
+<h3 align="center">An eager-to-learn software developer from northeast Brazil</h3>
 <br><br>
 
 - 🌱 I’m currently learning **Golang**
